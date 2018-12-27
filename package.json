@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "a gatsby transformer plugin to read exif data from images",
   "scripts": {},
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["gatsby"],
+  "author": "micah rich",
+  "license": "MIT",
   "dependencies": {
     "dms2dec": "^1.1.0",
     "exif": "^0.6.0",
