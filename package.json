@@ -4,8 +4,12 @@
   "description": "a gatsby transformer plugin to read exif data from images",
   "scripts": {},
   "keywords": ["gatsby"],
-  "author": "micah rich",
+  "author": "micah rich <micah@micahrich.com> (https://micahrich.com)",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/micahbrich/gatsby-transformer-exif.git"
+  },
   "dependencies": {
     "dms2dec": "^1.1.0",
     "exif": "^0.6.0",
